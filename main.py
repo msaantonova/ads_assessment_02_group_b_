@@ -1,15 +1,24 @@
 """
 Multiplication Table
 """
-# Provide your solution here
+
+def print_multifunction_table(n: int, r: int):
+    print(f"")
+
 
 """
-Palindromes
-"""
-# Provide your solution here
+# Palindromes
+# """
+def is_palindrome(text):
+   text = ""
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print("Test your functions by calling them here. Use different parameter values to test them with different scenarios.")
+
+
+
+
+
+# # Press the green button in the gutter to run the script.
+# if __name__ == '__main__':
+#     print("Test your functions by calling them here. Use different parameter values to test them with different scenarios.")
 
 
